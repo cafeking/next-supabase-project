@@ -25,11 +25,15 @@
   - Proxy
   - Client
   - Server
-  - It just works!
+  - It just work!
 - supabase-ssr. A package to configure Supabase Auth to use cookies
 - Password-based authentication block installed via the [Supabase UI Library](https://supabase.com/ui/docs/nextjs/password-based-auth)
 - Styling with [Tailwind CSS](https://tailwindcss.com)
 - Components with [shadcn/ui](https://ui.shadcn.com/)
+- **메모 앱 기능**
+  - Supabase 기반 메모 저장
+  - 메모 CRUD 기능
+  - 사용자별 데이터 분리 (RLS)
 - Optional deployment with [Supabase Vercel Integration and Vercel deploy](#deploy-your-own)
   - Environment variables automatically assigned to Vercel project
 
